@@ -10,6 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            BusinessCard.BusinessCard Bcard = new BusinessCard.BusinessCard();
 
         }
     }
